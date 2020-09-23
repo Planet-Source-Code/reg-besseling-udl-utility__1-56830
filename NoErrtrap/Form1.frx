@@ -1,0 +1,3 @@
+`Dim cnn As ADODB.Connection
+Set cnn = New ADODB.Connection
+cnn.Open "File Name=C:\MyUDL.udl"
